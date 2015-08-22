@@ -6,6 +6,9 @@ var columnForEmail = 2; // A=1, B=2, C=3, ...
 // Google+: Dave Ghidiu
 // Twitter: FringeEdTech
 //
+// Code at:
+// https://github.com/corydave/GoogleApps-ContinueLater/blob/master/ContinueLaterScript.gs
+// 
 // August 12, 2015
 
 /*
